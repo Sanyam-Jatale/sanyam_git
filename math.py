@@ -8,7 +8,7 @@ def subtract(x,y):
 
 #Multiply Implementation
 def multiply(x,y):
-    pass
+    return x*y		#feature branch
 
 #Divsion Implementation
 def divide(x,y):
